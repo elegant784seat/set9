@@ -1,0 +1,6 @@
+.DS_Store
+build/
+*.out
+*.exe
+SET 9.pdf
+solutions/A1/set9-2.pdf
