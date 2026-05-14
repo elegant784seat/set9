@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="80" y="28" font-family="Arial" font-size="20" font-weight="700">almost_sorted: time, microseconds</text>
+<line x1="80" y1="450" x2="680" y2="450" stroke="#333"/>
+<line x1="80" y1="45" x2="80" y2="450" stroke="#333"/>
+<line x1="80" y1="450.0" x2="680" y2="450.0" stroke="#e6e6e6"/>
+<text x="72" y="454.0" font-family="Arial" font-size="11" text-anchor="end">0</text>
+<line x1="80" y1="369.0" x2="680" y2="369.0" stroke="#e6e6e6"/>
+<text x="72" y="373.0" font-family="Arial" font-size="11" text-anchor="end">180</text>
+<line x1="80" y1="288.0" x2="680" y2="288.0" stroke="#e6e6e6"/>
+<text x="72" y="292.0" font-family="Arial" font-size="11" text-anchor="end">360</text>
+<line x1="80" y1="207.0" x2="680" y2="207.0" stroke="#e6e6e6"/>
+<text x="72" y="211.0" font-family="Arial" font-size="11" text-anchor="end">541</text>
+<line x1="80" y1="126.0" x2="680" y2="126.0" stroke="#e6e6e6"/>
+<text x="72" y="130.0" font-family="Arial" font-size="11" text-anchor="end">721</text>
+<line x1="80" y1="45.0" x2="680" y2="45.0" stroke="#e6e6e6"/>
+<text x="72" y="49.0" font-family="Arial" font-size="11" text-anchor="end">901</text>
+<line x1="80.0" y1="450" x2="80.0" y2="455" stroke="#333"/>
+<text x="80.0" y="474" font-family="Arial" font-size="11" text-anchor="middle">100</text>
+<line x1="162.8" y1="450" x2="162.8" y2="455" stroke="#333"/>
+<text x="162.8" y="474" font-family="Arial" font-size="11" text-anchor="middle">500</text>
+<line x1="266.2" y1="450" x2="266.2" y2="455" stroke="#333"/>
+<text x="266.2" y="474" font-family="Arial" font-size="11" text-anchor="middle">1000</text>
+<line x1="369.7" y1="450" x2="369.7" y2="455" stroke="#333"/>
+<text x="369.7" y="474" font-family="Arial" font-size="11" text-anchor="middle">1500</text>
+<line x1="473.1" y1="450" x2="473.1" y2="455" stroke="#333"/>
+<text x="473.1" y="474" font-family="Arial" font-size="11" text-anchor="middle">2000</text>
+<line x1="576.6" y1="450" x2="576.6" y2="455" stroke="#333"/>
+<text x="576.6" y="474" font-family="Arial" font-size="11" text-anchor="middle">2500</text>
+<line x1="680.0" y1="450" x2="680.0" y2="455" stroke="#333"/>
+<text x="680.0" y="474" font-family="Arial" font-size="11" text-anchor="middle">3000</text>
+<polyline points="80.0,448.2 100.7,445.1 121.4,441.9 142.1,437.9 162.8,433.4 183.4,428.9 204.1,423.1 224.8,418.6 245.5,412.3 266.2,405.5 286.9,400.1 307.6,394.3 328.3,385.8 349.0,379.0 369.7,369.2 390.3,363.8 411.0,355.2 431.7,347.6 452.4,340.0 473.1,333.7 493.8,324.7 514.5,318.0 535.2,310.3 555.9,307.2 576.6,296.0 597.2,286.5 617.9,275.7 638.6,260.9 659.3,253.3 680.0,223.7" fill="none" stroke="#1f77b4" stroke-width="2.2"/>
+<polyline points="80.0,446.0 100.7,440.1 121.4,432.5 142.1,427.5 162.8,418.6 183.4,409.6 204.1,399.7 224.8,391.6 245.5,379.9 266.2,372.8 286.9,357.5 307.6,346.3 328.3,337.3 349.0,324.7 369.7,318.4 390.3,299.6 411.0,286.5 431.7,276.6 452.4,276.6 473.1,256.9 493.8,261.8 514.5,244.8 535.2,223.2 555.9,216.9 576.6,200.7 597.2,191.3 617.9,180.1 638.6,167.1 659.3,154.9 680.0,130.2" fill="none" stroke="#ff7f0e" stroke-width="2.2"/>
+<polyline points="80.0,449.6 100.7,449.1 121.4,448.2 142.1,447.3 162.8,445.5 183.4,444.6 204.1,443.3 224.8,441.9 245.5,440.1 266.2,437.9 286.9,434.7 307.6,432.9 328.3,430.7 349.0,426.2 369.7,423.5 390.3,419.0 411.0,415.4 431.7,411.8 452.4,407.8 473.1,403.7 493.8,401.0 514.5,397.5 535.2,393.9 555.9,387.6 576.6,380.4 597.2,377.2 617.9,391.6 638.6,387.1 659.3,384.9 680.0,344.0" fill="none" stroke="#2ca02c" stroke-width="2.2"/>
+<polyline points="80.0,446.0 100.7,440.6 121.4,432.5 142.1,426.6 162.8,417.7 183.4,409.1 204.1,397.5 224.8,389.8 245.5,379.9 266.2,371.0 286.9,358.4 307.6,347.6 328.3,337.7 349.0,325.6 369.7,315.3 390.3,301.3 411.0,287.4 431.7,276.2 452.4,272.2 473.1,248.8 493.8,251.9 514.5,235.3 535.2,210.2 555.9,212.4 576.6,193.6 597.2,184.1 617.9,174.3 638.6,159.0 659.3,130.2 680.0,75.0" fill="none" stroke="#d62728" stroke-width="2.2"/>
+<polyline points="80.0,442.8 100.7,435.6 121.4,428.4 142.1,421.7 162.8,414.5 183.4,406.0 204.1,397.0 224.8,389.4 245.5,381.7 266.2,373.2 286.9,365.6 307.6,357.9 328.3,349.0 349.0,342.2 369.7,333.2 390.3,326.9 411.0,319.8 431.7,310.8 452.4,303.6 473.1,298.2 493.8,291.9 514.5,282.9 535.2,276.2 555.9,266.3 576.6,259.1 597.2,251.0 617.9,244.8 638.6,234.9 659.3,185.5 680.0,178.7" fill="none" stroke="#9467bd" stroke-width="2.2"/>
+<polyline points="80.0,448.2 100.7,446.4 121.4,444.6 142.1,442.4 162.8,440.6 183.4,437.9 204.1,435.6 224.8,432.9 245.5,431.6 266.2,428.4 286.9,427.1 307.6,424.9 328.3,423.1 349.0,419.9 369.7,417.2 390.3,415.9 411.0,413.2 431.7,411.4 452.4,407.3 473.1,406.4 493.8,406.4 514.5,401.5 535.2,399.3 555.9,397.0 576.6,395.7 597.2,390.3 617.9,389.4 638.6,387.6 659.3,371.4 680.0,368.3" fill="none" stroke="#8c564b" stroke-width="2.2"/>
+<line x1="702" y1="55" x2="734" y2="55" stroke="#1f77b4" stroke-width="3"/>
+<text x="744" y="59" font-family="Arial" font-size="12">std quick</text>
+<line x1="702" y1="81" x2="734" y2="81" stroke="#ff7f0e" stroke-width="3"/>
+<text x="744" y="85" font-family="Arial" font-size="12">std merge</text>
+<line x1="702" y1="107" x2="734" y2="107" stroke="#2ca02c" stroke-width="3"/>
+<text x="744" y="111" font-family="Arial" font-size="12">str quick</text>
+<line x1="702" y1="133" x2="734" y2="133" stroke="#d62728" stroke-width="3"/>
+<text x="744" y="137" font-family="Arial" font-size="12">str merge</text>
+<line x1="702" y1="159" x2="734" y2="159" stroke="#9467bd" stroke-width="3"/>
+<text x="744" y="163" font-family="Arial" font-size="12">MSD radix</text>
+<line x1="702" y1="185" x2="734" y2="185" stroke="#8c564b" stroke-width="3"/>
+<text x="744" y="189" font-family="Arial" font-size="12">MSD+quick</text>
+<text x="380.0" y="502" font-family="Arial" font-size="12" text-anchor="middle">array size</text>
+</svg>
